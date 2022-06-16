@@ -140,6 +140,9 @@ func audioPlayerDidFinishPlaying(_ player: AVAudioPlayer, successfully flag: Boo
 }
 ```
 
+
+## 동작
+
 <img src="https://user-images.githubusercontent.com/106363908/174159873-5593b040-bd6e-4709-b61c-f385902974d0.png" width="400" height="600">
 
 <img src="https://user-images.githubusercontent.com/106363908/174159940-4b7f1762-6075-4a1b-9446-e75dd318087f.png" width="400" height="600">
